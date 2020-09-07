@@ -3643,7 +3643,7 @@ h6 {
 
 @media screen and (max-width: 499px) {
   .products-pagination .products-pagination__bullet {
-    padding: 4px 9px;
+    padding: 8px;
   }
 }
 
